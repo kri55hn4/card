@@ -46,6 +46,7 @@ body {
   height: 100vh;
   font-family: "Roboto", sans-serif;
   transition: 0.25s;
+background: #232223;
 }
 body.dark {
   background: #232223;
